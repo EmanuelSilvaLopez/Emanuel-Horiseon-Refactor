@@ -85,6 +85,15 @@ p {
     margin-left: 20px;
 }
 
+.content-cards {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: var(--main-font);
+    background-color: #0072bb;
+    color: var(--white);
+}
+
 .benefits {
     margin-right: 20px;
     padding: 20px;
@@ -144,35 +153,8 @@ p {
     max-width: 150px;
 }
 
-.search-engine-optimization {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: var(--main-font);
-    background-color: #0072bb;
-    color: var(--white);
-}
-
-.online-reputation-management {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: var(--main-font);
-    background-color: #0072bb;
-    color: var(--white);
-}
-
-.social-media-marketing {
-    margin-bottom: 20px;
-    padding: 50px;
-    height: 300px;
-    font-family: var(--main-font);
-    background-color: #0072bb;
-    color: var(--white);
-}
-
 .content img {
-    max-height: 400px;
+    max-height: 200px;
 }
 
 .content h2 {
