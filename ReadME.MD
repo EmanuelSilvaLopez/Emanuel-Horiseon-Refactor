@@ -3,7 +3,7 @@
 ## What is Horiseon?
 Horiseon is a company with the goal of marketing your webpages through: Search engine optimization, online reputation management, and social media marketing.
 
-![image of Horiseon Webpage](Develop/assets/images/Horiseon-webpage-image.jpeg)
+![image of Horiseon Webpage](assets/images/Horiseon-webpage-image.jpeg)
 
 ## Challenges With The Starting Code.
 The code used to make the origin Horiseon webpage was full of repeated code and incorrect semantic elements in the HTML. There was also very limited support for folks who use screen readers.
